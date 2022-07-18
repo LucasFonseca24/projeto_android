@@ -40,7 +40,7 @@ header > div#inicio > p{
 header > nav{
     margin-left: 10px;
     padding-bottom: 8px;
-    min-width: 320px;
+    min-width: 10%;
 }
 
 header > nav > a{
