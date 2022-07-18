@@ -33,7 +33,7 @@ header > div#inicio > h1{
 }
 
 header > div#inicio > p{
-    padding: 3px 160px 6px 160px;
+    padding: 3px 30px 6px 30px;
     text-shadow: 1px 1px 1px black;
 }
 
@@ -180,7 +180,7 @@ main > p{
 }
 
 main p{
-    line-height: 1.1em;
+    line-height: 1.2em;
 }
 
 /* footer */
