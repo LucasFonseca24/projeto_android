@@ -102,7 +102,7 @@ main > article > p{
     text-decoration: none;
     background-color: #4ce06e6e;
     color: #225e30;
-    padding: 1px 1px 1px 6px;
+    padding: 0px 1px 0 6px;
     font-weight: bold;
 }
 
@@ -179,7 +179,7 @@ main > p{
 }
 
 main p{
-    line-height: 1em;
+    line-height: 1.1em;
 }
 
 /* footer */
